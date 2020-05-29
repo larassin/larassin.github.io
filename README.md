@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Happy Birthday
 
 A Happy Birthday animation design in CSS3, HTML5.
@@ -32,3 +33,7 @@ npm run server-node
 ```
 visit http://localhost:8081 in your browser.
 
+=======
+# larassin.github.io
+website iseng doang
+>>>>>>> 6a4992c7d42be0b91a57d5041f8162c2c0e8f179

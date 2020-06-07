@@ -6,7 +6,7 @@ body {
 	-o-transition:background-color linear 5s;
 	-ms-transition:background-color linear 5s;
 	transition:background-color linear 5s;
-	overflow-x:hidden;
+ 	overflow-x:hidden;
 }
 .container {
 	display: none;
